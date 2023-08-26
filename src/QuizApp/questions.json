@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "statement":"1.what is the capital city of pakistan",
+        "options":[
+            "lahore",
+            "karachi",
+            "islamabad",
+            "peshawar"
+        ],
+        "answerIndex":2
+    },
+        {
+        "id":2,
+        "statement":"2.which among the following is the biggest animal in the world",
+        "options":[
+            "shark",
+            "elephant",
+            "whale",
+            "dolphin"
+        ],
+        "answerIndex":3
+
+    },
+    {
+        "id":3,
+        "statement":"3.Luis has 19 soft drink cans. His coolers each have space for 6 cans. How many coolers can he fill completely?",
+        "options":[
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answerIndex":1
+    },
+        {
+        "id":4,
+        "statement":"4.How many buttons we took in Pedometer application ?",
+        "options":[
+            "Four",
+            "Three",
+            "Five",
+            "Six"
+        ],
+        "answerIndex":1
+
+    },
+    {
+        "id":5,
+        "statement":"5.We can change footstep length in pedometer application -true or false?",
+        "options":[
+            "TRUE",
+            "FALSE",
+            "whale",
+            "dolphin"
+        ],
+        "answerIndex":0
+
+    }
+]

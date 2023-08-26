@@ -1,0 +1,96 @@
+
+.success{
+  background-color: green;
+}
+.error{
+  background-color: red;
+}
+
+/* App.css */
+
+.container {
+  margin-top: 40px;
+  max-width: 800px;
+  padding: 20px;
+  background-color: #002d54;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.result {
+  text-align: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.result h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.result p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.result button {
+  padding: 10px 20px;
+  background-color: #316fc1;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.result button:hover {
+  background-color: #245eab;
+}
+
+.list-group {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-group-item {
+  padding: 10px 20px;
+  margin: 5px 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.list-group-item:hover {
+  background-color: #f0f0f0;
+}
+
+.list-group-item.success {
+  background-color: #5cb85c;
+  color: #fff;
+}
+
+.list-group-item.error {
+  background-color: #d9534f;
+  color: #fff;
+}
+
+.next-button {
+  padding: 10px 20px;
+  background-color: #316fc1;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 10px;
+}
+
+.next-button:hover {
+  background-color: #245eab;
+}
